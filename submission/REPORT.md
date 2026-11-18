@@ -1,7 +1,5 @@
 # Báo cáo Day 08 — 2A202603235 - Đào Duy Hiếu
 
-> Một file duy nhất cho cả bài (đã gộp recipe, QC và ghi chú cá nhân). Mọi con số kèm **mẫu số** và nguồn (file nào). Viết bằng lời của bạn.
-
 ## 1. Model và recipe (Part 2–3)
 
 | Lớp | Model + cỡ | Ngưỡng | Vì sao (dẫn `run_id` trong `model_log.csv`) |
@@ -71,7 +69,7 @@ Việc cần làm tiếp: review lại lô bằng checklist bắt buộc, ưu ti
 
 ## 8. Ghi chú cá nhân
 
-- **Dùng AI để làm bài:** tôi dùng ChatGPT/Codex để đọc cấu trúc repo, giải thích lệnh, kiểm tra file đầu ra và giúp sắp xếp báo cáo. .
+- **Dùng AI để làm bài:** Tôi dùng ChatGPT/Codex để giải thích hướng dẫn, hỗ trợ câu lệnh và rà cấu trúc file. Tôi tự gán nhãn, review ảnh và kiểm tra lại số liệu bằng output của các script trong repo.
 - Gold không bị nhiễm: tôi gán xong và export 4 ảnh gold trước khi chạy hoặc xem pre-label.
 - Máy Windows, CVAT chạy local bằng Docker. Model chạy bằng CPU trên Google Colab vì máy local không cài bộ model; lúc đầu Colab clone repo bị treo và runtime làm mất file tạm nên phải tải/chạy lại.
 - Không dùng cache `data/cache/`; các lần chạy YOLO26, YOLOE và SAM được thực hiện trên Colab.
