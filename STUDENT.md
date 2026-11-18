@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: HIEU2460
 - Repo bài nộp (URL): https://github.com/HIEU2460/K5-L23-Day08-DaoDuyHieu-2A202603235-AI-Assisted-Labeling.git
-- Commit chốt bài (hash): cập nhật sau khi tạo commit chốt bài
+- Commit chốt bài (hash): a9b2d30a5e8e22c922c312680cd508ae8b50e04d
 - Máy: Windows, máy local không dùng CUDA; model chạy bằng CPU trên Google Colab
 - CVAT (Docker): CVAT local bằng Docker, không lưu lại số phiên bản lúc làm bài
 
