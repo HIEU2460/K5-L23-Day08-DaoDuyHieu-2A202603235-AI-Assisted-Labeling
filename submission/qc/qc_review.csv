@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Dao Duy Hieu,"Không thấy lỗi rõ ràng; three_wheeler, person và xe xung quanh có box riêng"
+img_006.jpg,,khong,Dao Duy Hieu,"Không thấy lỗi rõ ràng; person, motorbike và bicycle phù hợp ảnh"
+img_014.jpg,,khong,Dao Duy Hieu,"Không thấy lỗi rõ ràng; box person và motorbike ôm phần nhìn thấy"
+img_031.jpg,,khong,Dao Duy Hieu,"Không thấy lỗi rõ ràng; giỏ hàng gắn với bicycle được tính cùng xe theo guideline"
+img_035.jpg,,khong,Dao Duy Hieu,"Không thấy lỗi rõ ràng; cyclo được gán three_wheeler và người có box riêng"
